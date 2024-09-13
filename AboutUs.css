@@ -1,0 +1,182 @@
+body {
+    line-height: 1.6;
+    background-color:#FFF7CD;
+    color: #426B89;
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+  }
+  .creators_info{ 
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 50px; /* Space between cards */
+    color:  #426B89;
+    image-orientation: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 10px;
+    margin-right: 10px;
+    }
+ 
+  .Mawada_photo{
+    justify-content: center;
+    border-radius: 50%;
+    border: double 10px #426B89;
+  }
+  .Mawada{
+    text-align: center;
+    margin-bottom: 30px;
+    background-color: #AAE6CD;
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #426B89;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 20px;
+    margin-right: 20px;
+    border: solid 10px #FD915E;
+    width: 270px;
+    gap: 50px;
+  }
+  .Salma_photo{
+    justify-content: center;
+    border-radius: 50%;
+    border: double 10px #426B89;
+  }
+  .Salma{
+    text-align: center;
+    margin-bottom: 30px;
+    background-color: #AAE6CD;
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #426B89;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 20px;
+    margin-right: 20px;
+    border: solid 10px #FD915E;
+    width: 270px;
+    gap: 50px;
+  }
+  .Mariam_photo{
+    justify-content: center;
+    border-radius: 50%;
+    border: double 10px #426B89;
+  }
+  .Mariam{
+    text-align: center;
+    margin-bottom: 30px;
+    background-color: #AAE6CD;
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #426B89;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 20px;
+    margin-right: 20px;
+    border: solid 10px #FD915E;
+    width: 270px;
+    gap: 50px;
+  }
+  .Malak_photo{
+    justify-content: center;
+    border-radius: 50%;
+    border: double 10px #426B89;
+  }
+  .Malak{
+    text-align: center;
+    margin-bottom: 30px;
+    background-color: #AAE6CD;
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #426B89;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 20px;
+    margin-right: 20px;
+    border: solid 10px #FD915E;
+    width: 270px;
+    gap: 50px;
+  }
+  .Mercy_photo{
+    justify-content: center;
+    border-radius: 50%;
+    border: double 10px #426B89;
+  }
+  .Mercy{
+    text-align: center;
+    margin-bottom: 30px;
+    background-color: #AAE6CD;
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #426B89;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 20px;
+    margin-right: 20px;
+    border: solid 10px #FD915E;
+    width: 270px;
+    gap: 50px;
+  }
+  .Fatima_photo{
+    justify-content: center;
+    border-radius: 50%;
+    border: double 10px #426B89;
+  }
+  .Fatima{
+    text-align: center;
+    margin-bottom: 30px;
+    background-color: #AAE6CD;
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #426B89;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 20px;
+    margin-right: 20px;
+    border: solid 10px #FD915E;
+    width: 270px;
+    gap: 50px;
+  }
+  .Jessica_photo{
+    justify-content: center;
+    border-radius: 50%;
+    border: double 10px #426B89;
+  }
+  .Jessica{
+    text-align: center;
+    margin-bottom: 30px;
+    background-color: #AAE6CD;
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #426B89;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 20px;
+    margin-right: 20px;
+    border: solid 10px #FD915E;
+    width: 270px;
+    gap: 50px;
+  }
+  
+  
